@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603303",
+ "ten": "TranNguyenHuuPhuc",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "Phuc_Tran",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000072098.jpg",
+  "000000137767.jpg",
+  "000000343057.jpg",
+  "000000455536.jpg",
+  "000000056651.jpg",
+  "000000109010.jpg",
+  "000000469061.jpg",
+  "000000043500.jpg",
+  "000000307757.jpg",
+  "000000100510.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_155465.jpg",
+  "face_300399.jpg",
+  "face_362568.jpg",
+  "face_436791.jpg",
+  "face_449454.jpg",
+  "face_345145.jpg",
+  "face_324513.jpg",
+  "face_562485.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-TranNguyenHuuPhuc"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-TranNguyenHuuPhuc"
+  }
+ }
+}
